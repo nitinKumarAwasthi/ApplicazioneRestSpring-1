@@ -51,6 +51,8 @@ public class ApplicazionerestspringApplication {
 			logger.info("Ciao oggi è "+oggiStringa);
 			SimpleDateFormat anno = new SimpleDateFormat("yyyy");
 			logger.info("Siamo nell'anno: "+anno.format(new Date()));*/
+
+			// nuidhfapovboansmn anwfaown wandcvanf owiioavfew
 		};
 
 	}
